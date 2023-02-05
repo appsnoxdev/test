@@ -63,6 +63,7 @@ aps.amazon.com, 13277230, RESELLER
 aps.amazon.com, 15083519, RESELLER
 aps.amazon.com, 15323246, RESELLER
 #IronSource
+#You use your own account in IronSource. Reach out to your IronSource AM
 ironsrc.com, 186063, RESELLER, 79929e88b2ba73bc
 ironsrc.com, 228853, RESELLER, 79929e88b2ba73bc
 ironsrc.com, 245431, RESELLER, 79929e88b2ba73bc
