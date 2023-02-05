@@ -1270,4 +1270,4 @@ smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
 pubnative.net, 1006576, RESELLER, d641df8625486a7b
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
 axonix.com, 57264, RESELLER
-admanmedia.com, 43, RESELLER
+admanmedia.com, 43, RESELLER 
